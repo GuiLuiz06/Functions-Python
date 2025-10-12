@@ -1,12 +1,15 @@
-📚 Repositório de Exercícios de Funções em Python
-📋 Sobre o Repositório
-Este repositório contém uma coleção de exercícios práticos sobre funções em Python, desenvolvidos para aprimorar o entendimento de programação funcional, modularização de código e boas práticas de desenvolvimento.
+# 🐍 Exercícios de Funções em Python
 
-🎯 Objetivos
-Praticar a criação e utilização de funções em Python
+Bem-vindo(a) ao meu repositório de **exercícios sobre funções em Python**!  
+Aqui estão reunidos meus estudos e práticas sobre **definição, chamada e aplicação de funções**, explorando diferentes conceitos da linguagem.
 
-Aprender sobre parâmetros, retornos e escopo de funções
+---
 
-Desenvolver habilidades de modularização de código
+## 📚 Sobre o projeto
 
-Implementar soluções para problemas reais usando funções
+Este repositório tem como objetivo:
+- Praticar a criação e utilização de **funções em Python**;  
+- Melhorar a **organização e reutilização de código**;  
+- Explorar **parâmetros, escopos e retornos**;  
+- Aprofundar o aprendizado de **lógica de programação**.
+
